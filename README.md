@@ -1,17 +1,17 @@
-# Reto Examenes para Admisión
+# Reto Tests de Microchip
 ## Descripción
 Este dataset es un ejercicio del curso de [Machine Learning de Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome). Consiste en un conjuto de datos de 2 variables:
 * Nota de examen 1 de un estudiante
 * Nota de examen 2 de un estudiante
 * Resultado si fue admitido a una universidad
 
-[graph](images/graph.png)
+![graph](images/graph.png)
 
 El dataset consiste en 100 datos.
 
 
 ### Ranking
-Ver [ranking](https://github.com/charlielito/supervised-basico-circles/blob/master/ranking.md).
+Ver [ranking](https://github.com/charlielito/supervised-basico-admission-exams/blob/master/ranking.md).
 
 ### Formato Datos
 Los datos se encuentran en los siguientes archivos CSV:
