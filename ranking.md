@@ -1,4 +1,4 @@
 # Raking
 | Score | Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
-| *score* | *nombre* | *algoritmo* | *link* |
+| 95 | SebaSa | SVM | https://github.com/shlondon/retos.git |
