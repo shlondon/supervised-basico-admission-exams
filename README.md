@@ -24,7 +24,7 @@ Los datos se encuentran en los siguientes archivos CSV:
 
 
 ### Objetivo
-Crear un algortimo que tome como input un los resultados del examen 1 y 2 y retorne si el estudiante fue admitido o no. Solo se pueden utilizar los datos del `traning-set.csv` para entrenar.
+Crear un algortimo que tome como input un los resultados del examen 1 y 2 y retorne si el estudiante fue admitido o no. Solo se pueden utilizar los datos del `train-set.csv` para entrenar.
 
 El performance se debe medir con respecto a los datos del `test-set.csv` utilizando la siguiente formula
 ```python
