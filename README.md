@@ -15,7 +15,7 @@ Ver [ranking](https://github.com/charlielito/supervised-basico-admission-exams/b
 
 ### Formato Datos
 Los datos se encuentran en los siguientes archivos CSV:
-* `traning-set.csv`
+* `train-set.csv`
 * `test-set.csv`
 
 ### Variables
