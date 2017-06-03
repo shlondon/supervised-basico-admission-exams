@@ -1,4 +1,4 @@
 # Raking
 | Score | Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
-| *score* | *nombre* | *algoritmo* | *link* |
+| 88 | Daniel Loaiza | Regresión Logistica | https://github.com/DanielLoaiza/supervised-basico-admission-exams/ |
