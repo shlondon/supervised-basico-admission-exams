@@ -1,4 +1,4 @@
-# Reto Tests de Microchip
+# Reto Examén de Admisión
 ## Descripción
 Este dataset es un ejercicio del curso de [Machine Learning de Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome). Consiste en un conjuto de datos de 2 variables:
 * Nota de examen 1 de un estudiante
